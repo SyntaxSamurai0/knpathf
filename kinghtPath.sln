@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kinghtPath", "kinghtPath\kinghtPath.csproj", "{FCD58F7E-D81E-470A-80D1-4E3EB9ADA363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD58F7E-D81E-470A-80D1-4E3EB9ADA363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD58F7E-D81E-470A-80D1-4E3EB9ADA363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD58F7E-D81E-470A-80D1-4E3EB9ADA363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD58F7E-D81E-470A-80D1-4E3EB9ADA363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CC63BF-CB56-4B3E-852D-59684B646C3B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@kinghtPath_HostAddress = http://localhost:5136
+
+GET {{kinghtPath_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
